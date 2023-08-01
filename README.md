@@ -1,5 +1,5 @@
 # Deploy HashiCorp Vault Helm Chart through Openshift GitOps
-## Prerequisites:
+## Prerequisites
 - Openshift Container Platform 4.y
 - Openshift Gitops Operator installed
 - ArgoCD CLI tool installed
